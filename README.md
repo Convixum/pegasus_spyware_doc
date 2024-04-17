@@ -1,17 +1,7 @@
-
-# Pegasus Spyware Samples Decompiled & Recompiled
-# Pegasus Spyware Product Manual 2013
-## Author: Jonathan Scott @jonathandata1    
-### CURRENT VERSION 4.0
-
-## About Jonathan Scott
-
-> My name is Jonathan Scott, and I'm an American Security Researcher. I am currently a computer science PhD student at North Central University. My research focus is mobile spyware. I have been a mobile security engineer for ~13 years. 
-
-> I was recently assigned an LVE from LG that affects all LG mobile devices in the world.  I discovered a backdoor in all LG Mobile Devices that allows the attacker to live inside your device undetected. This has been built into the MTK chipsets since the 1st LG Smart Mobile Device (Cellphones and Tablets).
+# Pegasus Spyware Samples Decompiled & Recompiled 🐎
 
 **LVE-SMP-210010**
-source: https://lgsecurity.lge.com/bulletins/mobile#updateDetails
+
 ![PEGASUS SPYWARE 5.1](https://i.postimg.cc/wMFBLpyf/Screen-Shot-2022-01-03-at-6-00-46-PM.png)
 
 
@@ -49,8 +39,6 @@ source: https://lgsecurity.lge.com/bulletins/mobile#updateDetails
                    
 
 ## Acknowledgements
-### @vxunderground for providing the samples
-### @recordedfuture for sample validation
 ### @botherder Claudio Guarnieri  - (Head of Security Lab at Amnesty International) - 2013 Product Manual
 
     
@@ -59,12 +47,7 @@ source: https://lgsecurity.lge.com/bulletins/mobile#updateDetails
 
 ## Product Manual: 2013 Edition
 ### Author: Guy Molho - Former NSO Director, Product Management
-### Author LinkedIn: https://www.linkedin.com/in/guymolho/
 
-**Document Hash:** f6f0170d41075766b5ea18508453fa68dc946b8c58eaea4281b36207a32c7ade
-https://www.virustotal.com/gui/file/f6f0170d41075766b5ea18508453fa68dc946b8c58eaea4281b36207a32c7ade
-
-## Author Validation: 
 `exiftool 2013-NSO-Pegasus.pdf
 Creator Tool                    : Adobe Acrobat 8.0 Combine Files
 Create Date                     : 2013:12:23 14:53:39-06:00
@@ -75,9 +58,4 @@ Format                          : application/pdf`
 
 
 ![PEGASUS SPYWARE User Manual](https://i.postimg.cc/tgKwFtP4/Untitled-design-Max-Quality-2022-01-12-T170128-993.jpg)
-
-
-![PEGASUS SPYWARE RAW DECOMPILED](https://i.postimg.cc/mZd92vqK/pegasus-spyware-android.jpg)
-
-
-    
+Pegasus is a type of spyware developed by the Israeli cybersecurity firm NSO Group. It is primarily used for surveillance and is known for its capability to infiltrate smartphones without the users' knowledge. Legal and Ethical Controversies.
