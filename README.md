@@ -1,4 +1,4 @@
-# Pegasus Spyware Samples Decompiled & Recompiled 🐎
+# Pegasus (spyware) samples decompiled & recompiled 🐎
 
 **LVE-SMP-210010**
 
@@ -39,14 +39,14 @@
                    
 
 ## Acknowledgements
-### @botherder Claudio Guarnieri  - (Head of Security Lab at Amnesty International) - 2013 Product Manual
+### @botherder Claudio Guarnieri
 
     
 ![PEGASUS SPYWARE 5.1](https://i.postimg.cc/tJ9QtqvQ/pegaus-sample-5-1.jpg)
 
 
 ## Product Manual: 2013 Edition
-### Author: Guy Molho - Former NSO Director, Product Management
+### Author: Guy Molho
 
 `exiftool 2013-NSO-Pegasus.pdf
 Creator Tool                    : Adobe Acrobat 8.0 Combine Files
