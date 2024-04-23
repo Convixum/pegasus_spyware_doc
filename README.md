@@ -8,7 +8,6 @@
 ## Description: 
 
 > ### Operating System: AndroidOS 
-> ### Samples 1-5.1 are executable and functional. I am still working on cleaning up Sample #6, but most the XML data can be read.
 
 ## Steps To Install & Research The Spyware Samples
 
@@ -45,7 +44,7 @@
 ![PEGASUS SPYWARE 5.1](https://i.postimg.cc/tJ9QtqvQ/pegaus-sample-5-1.jpg)
 
 
-## Product Manual: 2013 Edition
+## Product Manual: 2015 Edition
 ### Author: Guy Molho
 
 `exiftool 2013-NSO-Pegasus.pdf
@@ -59,3 +58,5 @@ Format                          : application/pdf`
 
 ![PEGASUS SPYWARE User Manual](https://i.postimg.cc/tgKwFtP4/Untitled-design-Max-Quality-2022-01-12-T170128-993.jpg)
 Pegasus is a type of spyware developed by the Israeli cybersecurity firm NSO Group. It is primarily used for surveillance and is known for its capability to infiltrate smartphones without the users' knowledge. Legal and Ethical Controversies.
+
+### ***Note: we didn't take any responsibility to whatever damaged that caused to anyone.***
