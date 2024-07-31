@@ -1,4 +1,4 @@
-# Pegasus (spyware) samples decompiled & recompiled 🐎
+# Pegasus spyware
 
 **LVE-SMP-210010**
 
